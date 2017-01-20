@@ -10,7 +10,7 @@ public class NutritionS {
      */
     public static void main(String[] args) {
         
-        System.out.println("Hola xd xd xd");
+        System.out.println("Amor y paz");
 
     }
     
